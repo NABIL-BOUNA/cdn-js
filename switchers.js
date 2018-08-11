@@ -1,0 +1,2 @@
+document.getElementById('mypost').innerHTML = document.getElementById('mypost').innerHTML.replace('img:','&lt;');
+document.getElementById('mypost').innerHTML = document.getElementById('mypost').innerHTML.replace('video:','&lt;');
